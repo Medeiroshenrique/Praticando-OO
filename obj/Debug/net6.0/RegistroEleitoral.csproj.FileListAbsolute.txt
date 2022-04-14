@@ -1,0 +1,15 @@
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\bin\Debug\net6.0\RegistroEleitoral.exe
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\bin\Debug\net6.0\RegistroEleitoral.deps.json
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\bin\Debug\net6.0\RegistroEleitoral.runtimeconfig.json
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\bin\Debug\net6.0\RegistroEleitoral.dll
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\bin\Debug\net6.0\RegistroEleitoral.pdb
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.csproj.AssemblyReference.cache
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.AssemblyInfoInputs.cache
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.AssemblyInfo.cs
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.csproj.CoreCompileInputs.cache
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.dll
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\refint\RegistroEleitoral.dll
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.pdb
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\RegistroEleitoral.genruntimeconfig.cache
+C:\Users\olegk\source\repos\RegistroEleitoral\RegistroEleitoral\obj\Debug\net6.0\ref\RegistroEleitoral.dll
