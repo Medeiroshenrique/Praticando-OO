@@ -15,6 +15,11 @@ namespace Programa
             Console.WriteLine($"Nome: {p.getNome()}");
             Console.WriteLine($"N° de inscricao: {p.getInscricao()}");
             Console.WriteLine($"Idade: {p.Idade} anos");
+
+            Registro r1=new Registro();
+            r1.identificador =1;
+            r1.cidadaoRegistrado=p;
+            Console.WriteLine(r1.cidadaoRegistrado.getNome());
         }
     }
 }
